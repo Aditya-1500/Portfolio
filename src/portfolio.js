@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Aditya Manchanda",
-  logo_name: "AdityaManchanda",
+  logo_name: "Aditya",
   // nickname: "...",
   subTitle:
     "A computer science enthisiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
