@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Aditya's Portfolio",
   description:
-    "A computer science enthisiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
+    "A computer science enthusiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
   og: {
     title: "Aditya Manchanda Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Aditya",
   // nickname: "...",
   subTitle:
-    "A computer science enthisiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
+    "A computer science enthusiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
   resumeLink:
     "https://drive.google.com/file/d/1vVrYICbSL2AIUVuRA6-a96OnhpQW72Vf/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
@@ -125,7 +125,7 @@ const skills = {
       title: "Web Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using HTML, CSS, Bootstrap, JavaScript",
+        "⚡ Building responsive website front-end using HTML, CSS, Bootstrap, JavaScript",
         "⚡ Creating application backend using Django framework",
         "⚡ Integrating Machine Learning models with the web-application created",
       ],
@@ -290,6 +290,33 @@ const degrees = {
         "⚡ I have also been nominated the coordinator of OpenGeest, the official society of CSE Department.",
       ],
       website_link: "https://www.nitj.ac.in/",
+    },
+    {
+      title: "Swami Sant Dass Public School",
+      subtitle: "High School (CBSE Board)",
+      logo_path: "ssdps_logo.png",
+      alt_name: "Swami Sant Dass Public School",
+      duration: "2014 - 2018",
+      descriptions: [
+        "⚡ Scored 95.6% in Science Stream (Non-medical) in Grade 12 with a distinction in Mathematics.",
+        "⚡ Got CGPA 10 in Grade 10 in CBSE Board Examinations.",
+        "⚡ Awarded 'Student of the year' prize for the academic year 2016-17.",
+        "⚡ Participated and won various medals in different School, State and National Level Olympiads as well as in TechFests.",
+      ],
+      website_link: "https://www.swamisantdass.com/",
+    },
+    {
+      title: "UCMAS",
+      subtitle: "",
+      logo_path: "ucmas_logo.png",
+      alt_name: "UCMAS",
+      duration: "2010 - 2012",
+      descriptions: [
+        "⚡ Completed all the 8 levels of UCMAS Program.",
+        "⚡ Participated and won runner up prize in UCMAS State Level Competitions for three consecutive years.",
+        "⚡ Graduated after completion of the program in 2012.",
+      ],
+      website_link: "https://www.ucmas.com/",
     },
   ],
 };
