@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A computer science enthisiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
   resumeLink:
-    "https://drive.google.com/file/d/1obXGCpxL_MXA-aFrzmtVvEpd1HZB2cfb/view?usp=sharing",
+    "https://drive.google.com/file/d/1vVrYICbSL2AIUVuRA6-a96OnhpQW72Vf/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
 };
 
@@ -199,7 +199,7 @@ const skills = {
           skillName: "GO",
           fontAwesomeClassname: "logos-go",
           style: {
-            backgroundColor: "transparent"
+            backgroundColor: "transparent",
             // color: "#0089D6",
           },
         },
@@ -207,16 +207,16 @@ const skills = {
           skillName: "Protobuf",
           fontAwesomeClassname: "logos:google-developers",
           style: {
-            backgroundColor: "transparent"
-          }
+            backgroundColor: "transparent",
+          },
         },
         {
           skillName: "Swagger",
           fontAwesomeClassname: "logos:swagger",
           style: {
-            backgroundColor: "transparent"
-          }
-        }
+            backgroundColor: "transparent",
+          },
+        },
       ],
     },
   ],
@@ -360,14 +360,15 @@ const certifications = {
       color_code: "#77B90133",
     },
     {
-      title: "Building Transformer-Based Natural Language Processing Applications",
+      title:
+        "Building Transformer-Based Natural Language Processing Applications",
       subtitle: "- NVIDIA Deep Learning Institute",
       logo_path: "nvidia_logo.png",
       certificate_link:
         "https://courses.nvidia.com/certificates/05a8a6696bf148e29c7109a577ba4e5e",
       alt_name: "NVIDIA Deep Learning Institute",
       color_code: "#77B90133",
-    }
+    },
   ],
 };
 
@@ -401,7 +402,8 @@ const experience = {
         {
           title: "GoogleCloudReady Facilitator",
           company: "Google Cloud",
-          company_url: "https://events.withgoogle.com/googlecloudready-facilitator-program/",
+          company_url:
+            "https://events.withgoogle.com/googlecloudready-facilitator-program/",
           logo_path: "gcp_logo.png",
           duration: "March 2021 - June 2021",
           description:
@@ -421,7 +423,8 @@ const experience = {
         {
           title: "Head & Student Coordinator",
           company: "OpenGeest",
-          company_url: "https://www.linkedin.com/company/opengeest-society-nit-jalandhar/",
+          company_url:
+            "https://www.linkedin.com/company/opengeest-society-nit-jalandhar/",
           logo_path: "og_logo.png",
           duration: "Jun 2020 - Present",
           description:
@@ -431,8 +434,7 @@ const experience = {
         {
           title: "Core Team Member",
           company: "Developer Student Club NITJ",
-          company_url:
-            "https://www.linkedin.com/company/dscnitj/",
+          company_url: "https://www.linkedin.com/company/dscnitj/",
           logo_path: "dsc_logo.png",
           duration: "Nov 2019 - May 2020",
           description:
@@ -469,8 +471,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Jalandhar, Punjab - 144008",
+    subtitle: "Jalandhar, Punjab - 144008",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/XAmWFRkmhQXpRaeY6",
   },
