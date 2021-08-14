@@ -1,0 +1,28 @@
+{
+	"title": "Experience",
+	"subtitle": "Internship and Volunteership",
+	"description":
+		"I have done my internship at Standard Chartered Bank as a Summer Intern 2021. Being very passionate about Computer Science, I love to share my knowledge with others and hence, I have also been a part of many developer communities.",
+	"header_image_path": "experience.svg",
+	"sections": [
+		{
+			"title": "Internships",
+			"experiences": [
+				{
+					"title": "Development Analyst (Intern)",
+					"company": "Standard Chartered GBS Pvt Ltd",
+					"company_url": "https://www.sc.com/in/",
+					"logo_path": "scb_logo.png",
+					"duration": "May 2021 - July 2021",
+					"location": "Virtual Internship",
+					"description": "Here, I worked on development of an Data Marketplace. The task to develop an easy to use User Interface consisting of APIs to access data and a backend to make required API Calls. The APIs used both REST and gRPC Services. I worked on the backend and using Go language, prepared the code to generate Swagger-UI for corresponding proto files for the gRPC Services. The client created using Golang could fetch the data from server in real-time and provide response to API Call. At the end of this internship, the swagger-ui was integrated with the main user interface created using ReactJs and the application was dockerized and deployed using OpenShift.",
+					"color": "#0074EB"
+				}
+			]
+		},
+		{
+			"title": "Volunteerships",
+			"experiences": []
+		}
+	]
+}
