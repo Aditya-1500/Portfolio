@@ -366,7 +366,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1B1AN4qNQAM22O7_ooGBW7gGWbppwMmMC/view?usp=sharing",
       alt_name: "Google Cloud",
-      color_code: "#4285F499",
+      color_code: "#4285F440",
     },
     {
       title: "30 Days of Kotlin",
@@ -375,7 +375,34 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1YrgsNy_fPWr4ZMy0JE9oqayoyltpbyyy/view?usp=sharing",
       alt_name: "Kotlin",
-      color_code: "#0C9D5899",
+      color_code: "#0C9D5840",
+    },
+    {
+      title: "Python",
+      subtitle: "- Kaggle Courses",
+      logo_path: "kaggle_logo.png",
+      certificate_link:
+        "https://www.kaggle.com/learn/certification/aditya1500/python",
+      alt_name: "Kaggle Courses - Python",
+      color_code: "#AEE3FA5F",
+    },
+    {
+      title: "Intro to Machine Learning",
+      subtitle: "- Kaggle Courses",
+      logo_path: "kaggle_logo.png",
+      certificate_link:
+        "https://www.kaggle.com/learn/certification/aditya1500/intro-to-machine-learning",
+      alt_name: "Kaggle Courses - Intro to Machine Learning",
+      color_code: "#AEE3FA5F",
+    },
+    {
+      title: "Intermediate Machine Learning",
+      subtitle: "- Kaggle Courses",
+      logo_path: "kaggle_logo.png",
+      certificate_link:
+        "https://www.kaggle.com/learn/certification/aditya1500/intermediate-machine-learning",
+      alt_name: "Kaggle Courses - Intermediate Machine Learning",
+      color_code: "#AEE3FA5F",
     },
     {
       title: "Fundamentals of Deep Learning",
@@ -385,6 +412,15 @@ const certifications = {
         "https://courses.nvidia.com/certificates/b25892e2ea284b39bc10a61fffd813e1",
       alt_name: "NVIDIA Deep Learning Institute",
       color_code: "#77B90133",
+    },
+    {
+      title: "Postman Student Expert",
+      subtitle: "- Postman Student Community",
+      logo_path: "postman_student_expert_logo.png",
+      certificate_link:
+        "https://api.badgr.io/public/assertions/-Y0oL8FsR4SWjYwKe7lLnw?identity__email=adityamanchanda15%40gmail.com",
+      alt_name: "Postman Student Expert Badge",
+      color_code: "#F0784A20",
     },
     {
       title:
@@ -426,6 +462,16 @@ const experience = {
     {
       title: "Volunteerships",
       experiences: [
+        {
+          title: "Teaching Assistant",
+          company: "Data Science Code Camp - R and Python",
+          company_url: "https://dscc-nitj.github.io/",
+          logo_path: "nitj_logo.png",
+          duration: "August 2021 - September 2021",
+          description:
+            "Data Science Code Camp was an intensive 4-week course organized by Department of Computer Science and Engineering with motive to provide the basic knowledge of the primary tools of the data science domain and provide hands-on experience to the students at the very initial. This Code camp provided students with a platform for data science by providing a project-based curriculum. As a teaching assistant, I was responsible to prepare and check assignments for students to practice, besides solving doubts encountered by students while carrying out the lab session. This course was specially designed according to the requirements of students as well as industry experts.",
+          color: "#4285F4",
+        },
         {
           title: "GoogleCloudReady Facilitator",
           company: "Google Cloud",
