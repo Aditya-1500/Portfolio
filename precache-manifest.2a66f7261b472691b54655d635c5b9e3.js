@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1809a80f46df8ad3f765aae18c8050a7",
+    "revision": "d0354556ca85950e5169a9da214c3b41",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "1be257ef2d63d6bb35b8",
+    "revision": "3d973c1067f781e0ff52",
     "url": "/portfolio/static/css/main.632e5830.chunk.css"
   },
   {
-    "revision": "c3280c9299ef0c74468a",
-    "url": "/portfolio/static/js/2.66a50155.chunk.js"
+    "revision": "ab75fdb58f575b9995e0",
+    "url": "/portfolio/static/js/2.74a690e3.chunk.js"
   },
   {
-    "revision": "1be257ef2d63d6bb35b8",
-    "url": "/portfolio/static/js/main.19bacf98.chunk.js"
+    "revision": "3d973c1067f781e0ff52",
+    "url": "/portfolio/static/js/main.e747579d.chunk.js"
   },
   {
     "revision": "e454a2005569dc1b15ca",
@@ -188,6 +188,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/github_logo.e64de169.png"
   },
   {
+    "revision": "efb919c914ec4d5589617e8f4808586f",
+    "url": "/portfolio/static/media/kaggle_logo.efb919c9.png"
+  },
+  {
     "revision": "5125951940ed274999a01e2180f3928c",
     "url": "/portfolio/static/media/mello.51259519.svg"
   },
@@ -214,6 +218,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f576d0095b60ce58a7e430d8a0eec378",
     "url": "/portfolio/static/media/og_logo.f576d009.png"
+  },
+  {
+    "revision": "dabd7e00d48ee0dd29129739927de7e4",
+    "url": "/portfolio/static/media/postman_student_expert_logo.dabd7e00.png"
   },
   {
     "revision": "c1a95f7335cbfb730b937e19e8830a53",
