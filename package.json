@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "AdityaPortfolio",
-  "homepage": "https://aditya-1500.github.io/portfolio",
+  "homepage": "adityamanchanda.live",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
