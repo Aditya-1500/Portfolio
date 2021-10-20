@@ -523,7 +523,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "I believe in learning by doing. Hence, whenever I learn a concept, I try to create a project to clarify the concepts even more. My best experience has been in creating projects based on Machine Learning, Deep Learning, and",
+    "I believe in learning by doing. Hence, whenever I learn a concept, I try to create a project to clarify the concepts even more. My best experience has been in creating projects based on Machine Learning, Deep Learning, and Django.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -538,8 +538,7 @@ const contactPageData = {
   blogSection: {
     title: "Hobbies",
     subtitle:
-      "Besides coding, I love to play badminton as a hobby and a leisure activity. I also listen to different types of music as well as watch web-series, movies, and anime in my free time.",
-    // link: "https://ashutoshhathidara.wordpress.com",
+      "Besides coding, I love to play badminton as a hobby and a leisure activity. I also listen to different types of music and play Guitar as well. In my free time, I like to watch web-series, movies, or anime.",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

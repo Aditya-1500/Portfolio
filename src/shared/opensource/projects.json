@@ -1,1 +1,120 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkzMzE2MTE2Mzg=","name":"HackNITJ-Website","createdAt":"2021-01-21T11:49:43Z","url":"https://github.com/Aditya-1500/HackNITJ-Website","description":"The website for HackNITJ 2021","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNDc1MjM3NDI=","name":"Machine-Learning","createdAt":"2020-03-15T18:12:07Z","url":"https://github.com/Aditya-1500/Machine-Learning","description":"The repository contains various Machine Learning notebooks created along the study.","isFork":false,"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyMTAwMDQ2MjU=","name":"Omnifood","createdAt":"2019-09-21T15:01:49Z","url":"https://github.com/Aditya-1500/Omnifood","description":"This repository containing basic Front-end project files created for the purpose of learning and practice.","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNjExNjc4MzA=","name":"Sorting-Techniques","createdAt":"2020-05-04T12:21:27Z","url":"https://github.com/Aditya-1500/Sorting-Techniques","description":"The repository includes a GUI depicting various Sorting algorithms and a Jupyter Notebook for comparative graphs of all sorting algorithms.","isFork":false,"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"},{"name":"Python","iconifyClass":"logos-python"}]},{"id":"MDEwOlJlcG9zaXRvcnkzMDk0NTE5ODc=","name":"Spam-Ham-Detection","createdAt":"2020-11-02T17:54:46Z","url":"https://github.com/Aditya-1500/Spam-Ham-Detection","description":null,"isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"MDEwOlJlcG9zaXRvcnkzNzAwMjIwMTk=","name":"Techademics","createdAt":"2021-05-23T10:27:05Z","url":"https://github.com/Aditya-1500/Techademics","description":null,"isFork":false,"languages":[{"name":"Python","iconifyClass":"logos-python"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"}]}]}
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMDk0NTE5ODc=",
+      "name": "Spam-Ham-Detection",
+      "createdAt": "2020-11-02T17:54:46Z",
+      "url": "https://github.com/Aditya-1500/Spam-Ham-Detection",
+      "description": "This is an ensemble based spam detection web-application that uses probablistic data-structures based on the paper: A. Singh, S. Batra, Ensemble based spam detection in social IoT using probabilistic data structures, Future Generation Computer Systems (2017), https://doi.org/10.1016/j.future.2017.09.072.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGPN5DA",
+      "name": "Character-Level-LSTM",
+      "createdAt": "2021-10-18T17:50:11Z",
+      "url": "https://github.com/Aditya-1500/Character-Level-LSTM",
+      "description": "The repository consists of a Deep Learning based LSTM model. The trained model is capable of predicting the next characters for a given character, hence it can form words, sentences and even paragraphs on its own. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzE2MTE2Mzg=",
+      "name": "HackNITJ-Website",
+      "createdAt": "2021-01-21T11:49:43Z",
+      "url": "https://github.com/Aditya-1500/HackNITJ-Website",
+      "description": "This is the official website for HackNITJ 2021, North India's largest software based hackathon organized by Dr. B.R. Ambedkar National Institute of Technology Jalandhar.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjExNjc4MzA=",
+      "name": "Sorting-Techniques",
+      "createdAt": "2020-05-04T12:21:27Z",
+      "url": "https://github.com/Aditya-1500/Sorting-Techniques",
+      "description": "The repository includes a GUI depicting various Sorting algorithms and a Jupyter Notebook for comparative graphs of all sorting algorithms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNzAwMjIwMTk=",
+      "name": "Techademics",
+      "createdAt": "2021-05-23T10:27:05Z",
+      "url": "https://github.com/Aditya-1500/Techademics",
+      "description": "Techademics - the Learning cum Student Management System is the technology used to support Remote learning and student management. The project tries to modernize the ways of education to match with the rapid advancement in technology and its use in other fields.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNTk3MTU1NjM=",
+      "name": "Bot-IoT",
+      "createdAt": "2021-04-20T06:58:00Z",
+      "url": "https://github.com/Aditya-1500/Bot-IoT",
+      "description": "The project aims to analyse different types of attacks using the Bot-IoT dataset and also apply & compare different classification algorithms. In the project, machine learning algorithms are applied and tested using ten best features from the dataset.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
