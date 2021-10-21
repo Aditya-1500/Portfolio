@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Aditya Manchanda Portfolio",
     type: "website",
-    // url: "http://adityamanchanda.com/",
+    // url: "https://adityamanchanda.live/",
   },
 };
 
