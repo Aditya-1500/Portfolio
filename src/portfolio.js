@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Aditya Manchanda Portfolio",
     type: "website",
-    // url: "https://adityamanchanda.live/",
+    url: "https://adityamanchanda.live/",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A computer science enthusiast who loves to explore different domains in the field and thrives to work on projects that contribute towards development of society.",
   resumeLink:
-    "https://drive.google.com/file/d/1vVrYICbSL2AIUVuRA6-a96OnhpQW72Vf/view?usp=sharing",
+    "https://drive.google.com/file/d/18diLq8fZ3ZyPuSjoMKfsUwBRqEPy4q-T/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
 };
 
@@ -39,7 +39,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/aditya-manchanda-1217a617b/",
+    link: "https://www.linkedin.com/in/aditya1500/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -55,12 +55,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
-  // {
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/aditya1500/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
+  {
+    name: "Instagram",
+    link: "https://www.instagram.com/aditya1500/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
@@ -457,6 +457,17 @@ const experience = {
             "Here, I worked on development of an Data Marketplace. The task to develop an easy to use User Interface consisting of APIs to access data and a backend to make required API Calls. The APIs used both REST and gRPC Services. I worked on the backend and using Go language, prepared the code to generate Swagger-UI for corresponding proto files for the gRPC Services. The client created using Golang could fetch the data from server in real-time and provide response to API Call. At the end of this internship, the swagger-ui was integrated with the main user interface created using ReactJs and the application was dockerized and deployed using OpenShift. ",
           color: "#0074EB",
         },
+        {
+          title: "Software Engineering Virtual Experience",
+          company: "Forage (Inside-Sherpa)",
+          // company_url: "https://www.sc.com/in/",
+          logo_path: "forage_logo.png",
+          duration: "May 2020 - May 2020",
+          // location: "Virtual Internship",
+          description:
+            "Completed practical task modules in Data Quality Assessment, Data Visualization, and Data Insights. Gained practical exposure by working online.",
+          color: "#0074EB",
+        },
       ],
     },
     {
@@ -510,6 +521,16 @@ const experience = {
           company_url: "https://www.linkedin.com/company/dscnitj/",
           logo_path: "dsc_logo.png",
           duration: "Nov 2019 - May 2020",
+          description:
+            "Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. As a core member of DSC NITJ, I organized different workshops like Explore ML and mentored the students in HackMoL hackathon.",
+          color: "#0C9D58",
+        },
+        {
+          title: "Interviewer",
+          company: "UnsaidTalks",
+          company_url: "https://www.unsaidtalks.com/",
+          logo_path: "unsaidtalks_logo.png",
+          duration: "Jan 2019 - Apr 2020",
           description:
             "Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. As a core member of DSC NITJ, I organized different workshops like Explore ML and mentored the students in HackMoL hackathon.",
           color: "#0C9D58",
