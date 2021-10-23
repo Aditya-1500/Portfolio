@@ -530,10 +530,10 @@ const experience = {
           company: "UnsaidTalks",
           company_url: "https://www.unsaidtalks.com/",
           logo_path: "unsaidtalks_logo.png",
-          duration: "Jan 2019 - Apr 2020",
+          duration: "Jan 2019 - Apr 2019",
           description:
-            "Google Developer Student Clubs (GDSC) are community groups for college and university students interested in Google developer technologies. By joining a GDSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community. As a core member of DSC NITJ, I organized different workshops like Explore ML and mentored the students in HackMoL hackathon.",
-          color: "#0C9D58",
+            "Under the UnsaidTalks Interviewer Program, I interviewed various final year students of NITJ who were placed in some of the top companies. The program was completely focussed on adding ease on preparation path of freshers by providing them a platform that would help them learn from first hand experience of their seniors.",
+          color: "#E5882F",
         },
       ],
     },
